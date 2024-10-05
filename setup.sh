@@ -9,7 +9,7 @@ sudo apt install -y gparted htop moreutils neofetch psensor strace
 sudo apt install -y libpthread-stubs0-dev thermald xclip
 sudo apt install -y clamav lynis openvpn wireshark 
 sudo apt install -y adb android-sdk-platform-tools-common
-sudo apt install -y ffmpeg gimp pavucontrol qbittorrent vlc
+sudo apt install -y ffmpeg gimp pavucontrol qbittorrent vlc xournalpp
 pip install yt-dlp spotdl
 
 wget https://go.microsoft.com/fwlink/?LinkID=760868 -O ~/vscode.deb

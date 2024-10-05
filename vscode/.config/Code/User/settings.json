@@ -12,6 +12,9 @@
     "editor.insertSpaces": true,
     "editor.tabSize": 2,
     "vim.useSystemClipboard": true,
+    // format on save
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     // personal preferences
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
